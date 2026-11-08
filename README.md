@@ -6,3 +6,7 @@ Test repository for the dsh-superagent trial.
 
 - This is a test repository for the dsh-superagent trial.
 - It exists only to exercise dsh-superagent workflows, not for real projects.
+
+## Contact
+
+This is a test repository for dsh-superagent.
